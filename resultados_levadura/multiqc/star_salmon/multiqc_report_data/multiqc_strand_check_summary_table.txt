@@ -1,0 +1,2 @@
+Sample	provided	salmon_inferred	salmon_pct	salmon_s	salmon_a	salmon_u	rseqc_inferred	rseqc_pct	rseqc_s	rseqc_a	rseqc_u	status
+sample1	auto	reverse	97.8	2.2	97.8	0.0	reverse	97.6	2.2	91.8	6.0	pass

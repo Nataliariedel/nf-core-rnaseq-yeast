@@ -1,0 +1,2 @@
+Sample	Known Splicing Events	Partial Novel Splicing Events	Novel Splicing Events
+sample1	23206.0	85.0	2862.0

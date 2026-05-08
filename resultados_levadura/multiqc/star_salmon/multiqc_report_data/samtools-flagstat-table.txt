@@ -1,0 +1,2 @@
+Sample	Total Reads	Total Passed QC	Mapped	Secondary Alignments	Duplicates	Paired in Sequencing	Properly Paired	Self and mate mapped	Singletons	Mate mapped to diff chr	Diff chr (mapQ >= 5)
+sample1	2.1980109999999997	2.1980109999999997	2.1980109999999997	0.29226199999999997	0.345242	1.905749	1.905602	1.905602	0.000147	0.0	0.0

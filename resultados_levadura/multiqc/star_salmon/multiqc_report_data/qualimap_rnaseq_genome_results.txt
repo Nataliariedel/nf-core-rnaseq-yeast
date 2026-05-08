@@ -1,0 +1,2 @@
+Sample	reads_aligned	total_alignments	non_unique_alignments	reads_aligned_genes	ambiguous_alignments	not_aligned	reads_aligned_exonic	reads_aligned_intronic	reads_aligned_intergenic	reads_aligned_overlapping_exon	5_bias	3_bias	5_3_bias
+sample1	952801	2198011	422491	991197	1255	0	991197	38443	744625	357660	0.45	0.48	0.94

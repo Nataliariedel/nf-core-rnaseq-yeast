@@ -1,0 +1,2 @@
+Sample	Unique Pairs	Unique Unpaired	Duplicate Pairs Nonoptical	Duplicate Unpaired
+sample1	1560436.0	71.0	345166.0	76.0

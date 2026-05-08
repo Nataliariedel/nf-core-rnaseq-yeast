@@ -1,0 +1,2 @@
+Sample	pe_sense	pe_antisense	failed
+sample1	0.0222	0.9182	0.0596

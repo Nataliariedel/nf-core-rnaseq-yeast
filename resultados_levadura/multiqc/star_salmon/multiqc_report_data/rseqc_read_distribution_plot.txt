@@ -1,0 +1,2 @@
+Sample	CDS_Exons	5'UTR_Exons	Introns	TSS_up_1kb	TES_down_1kb	Other_intergenic
+sample1	1402121.0	12.0	1857.0	37.0	128.0	229692.0

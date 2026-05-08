@@ -1,0 +1,2 @@
+Sample	Exonic	Intronic	Intergenic
+sample1	991197.0	38443.0	744625.0

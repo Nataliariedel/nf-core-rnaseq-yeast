@@ -1,0 +1,2 @@
+Sample	protein_coding	ncRNA	tRNA	snoRNA	pseudogene	snRNA	rRNA
+sample1	1615567	292	314	1070	2129	239	23

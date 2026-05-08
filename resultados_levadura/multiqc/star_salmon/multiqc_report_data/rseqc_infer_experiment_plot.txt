@@ -1,0 +1,2 @@
+Sample	Sense	Antisense	Undetermined
+sample1	2.22	91.82000000000001	5.96

@@ -1,0 +1,3 @@
+Sample	Unique Reads	Duplicate Reads
+sample1_1	550991.0	448693.0
+sample1_2	534357.0	465327.0

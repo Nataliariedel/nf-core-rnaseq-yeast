@@ -1,0 +1,21 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/10/sample1.markdup.sorted.metrics.txt
+QualiMap	rna_genome_results	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/26/sample1/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/26/sample1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/24/sample1.read_distribution.txt
+RSeQC	inner_distance	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/19/sample1.inner_distance_freq.txt
+RSeQC	read_duplication	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/14/sample1.pos.DupRate.xls
+RSeQC	junction_annotation	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/18/sample1.junction_annotation.log
+RSeQC	junction_saturation	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/20/sample1.junctionSaturation_plot.r
+RSeQC	infer_experiment	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/21/sample1.infer_experiment.txt
+RSeQC	bam_stat	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/11/sample1.bam_stat.txt
+Samtools	stats	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/17/sample1.markdup.sorted.bam.stats
+Samtools	flagstat	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/13/sample1.markdup.sorted.bam.flagstat
+Samtools	idxstats	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/12/sample1.markdup.sorted.bam.idxstats
+STAR	SummaryLog	sample1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/9/sample1.Log.final.out
+FastQC (raw)	all_sections	sample1_1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/7/sample1_raw_1_fastqc.zip
+FastQC (raw)	all_sections	sample1_2	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/8/sample1_raw_2_fastqc.zip
+Cutadapt	all_sections	sample1_1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/3/sample1_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	sample1_2	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/4/sample1_trimmed_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	sample1_1	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/5/sample1_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	sample1_2	/home/natyna/analisis_rnaseq/work/66/be3fbab0c5b6f0aa953809abb19c5f/6/sample1_trimmed_2_val_2_fastqc.zip

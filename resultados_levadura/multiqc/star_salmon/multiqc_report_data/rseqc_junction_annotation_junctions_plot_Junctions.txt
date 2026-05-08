@@ -1,0 +1,2 @@
+Sample	Known Splicing Junctions	Partial Novel Splicing Junctions	Novel Splicing Junctions
+sample1	243.0	43.0	312.0

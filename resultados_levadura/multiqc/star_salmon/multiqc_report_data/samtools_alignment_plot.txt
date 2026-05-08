@@ -1,0 +1,2 @@
+Sample	Mapped (with MQ>0)	MQ0
+sample1	1895421.0	10328.0
